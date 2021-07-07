@@ -6,32 +6,42 @@ BasicInfo:
     - Icon: fas fa-phone
       Info: 404-409-7389
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: d_personal@tuta.io
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Initially an aspiring psychology researcher, I became gradually more disillusioned with the state of the field, as well as the quality of my college education. Being unable to legally work in the US as a young adult, when I finally received my greencard I jumped straight into retail and restaurants, where I excelled and quickly rose to management roles. Although I put forth a lot of effort into developing my managerial and team communication skills, I realized the skill and wage ceiling was not much higher than what I had already achieved.<br/><br/>I decided to enter the world of web development and programming to complement my salary, but moreso to put my mind to better use and once again push myself intellectually. Since then I have fallen in love with the many applications of computing, self-teaching on all the languages, frameworks, and technologies mentioned below; I learned and put these skills to use by working with small business after small business because of the immediate impact on the lives of the business-owners and because of the flexibility to learn beyond the limits of web development.<br/><br/>In the near future, my goals are to further expanding into the world of distributed systems/cloud computing as well as helping to define the next generation of user interfaces on a technical level, using the power of localized neural nets, strong encryption, and speedy batch operations powered at a low level by io_uring and SIMD acceleration. The end goal is to bring these tools to the webbrowser to create secure services and apps that truly feel native.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Fullstack Web Development
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: SK Media
+        Date: 2018 - Present
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges:
-          ["Python", "Django", "OOP", "Javascript", "HTML", "CSS", "Agile"]
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
+          - Providing small businesses with vital services to boost their online sales + presence
+          - WebDev using popular frontend frameworks
+          - WebDev employing site/webapp builders like Wordpress, Wix, Netlify
+          - Backend management of WebAPI's and MongoDB/NoSQL databases
+        Badges: ["Python", "Django", "Go", "Javascript", "HTML", "CSS"]
+
+  - Employer: Performance Profiling + Enhancement
+    Positions:
+      - Title: Freelance Consultant
+        Date: 2017 - Present
         Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ["Python", "BDD", "Selenium", "OOP", "Agile"]
+          - Leveraging cutting edge technologies to improve performance of webapps
+          - Migrating NodeJS backends to Deno
+          - Server management using Linux, SSH, Linode
+        Badges: ["Deno", "WASM", "Rust", "Go", "Typescript"]
+
+  - Employer: FOSS Applications
+    Positions:
+      - Title: Freelance Consultant
+        Date: 2019 - Present
+        Details:
+          - Creating/contributing to mobile apps written in Dart
+          - Developer friendly GUI tools written in PyQt + Typescript for Electron
+          - Developer friendly CLI/TUI tools written in Rust
+          - Binary format caching + storage alongside small neural nets to boost productivity
+        Badges: ["Rust", "PyQt5", "Typescript", "Electron", "Io_uring"]
 
 Skills:
   - Family: Programming
@@ -60,6 +70,8 @@ Skills:
   - Family: Other DevTools
     Items:
       - Git
+      - WASM
+      - NodeJS + Deno
       - Docker
       - MongoDB
       - Linux/Linode
@@ -77,5 +89,11 @@ Interests:
   - Micro[Modules|Services]
   - Automation
   - Performance Profiling
-  - Languages
   - Music
+  - Languages
+
+Education:
+  - Course: Behavioral Psychology + Neuroscience
+    Place: Westminster College
+    Date: 2010 - 2014
+    Details: Specialised in data analysis

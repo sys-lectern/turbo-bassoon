@@ -1,0 +1,13 @@
+.interests {
+    text-align: left;
+    column-count: 1;
+}
+
+.experience {
+    &__place {
+        &:before {
+            content: '';
+            visibility: hidden;
+        }
+    }
+}
