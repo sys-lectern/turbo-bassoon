@@ -1,0 +1,20 @@
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = "false"
+enableEmoji = "false"
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://example.com/"
+title = "David Fajardo CV"
+
+[params]
+colorDark = "#E5E9F0"
+colorLight = "#2E3440"
+colorPageBackground = "#D8DEE9"
+colorPrimary = "#4C566A"
+colorPrimaryText = "#81A1C1"
+colorRightColumnBackground = "#3B4252"
+colorSecondary = "#8FBCBB"
+pages = 1
